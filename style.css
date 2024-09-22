@@ -1,0 +1,13 @@
+h1 {
+    font-size: 46px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
+body {
+    background-color: beige;
+}

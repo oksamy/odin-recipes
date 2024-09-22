@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 46px;
+}
+
+p, li, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
