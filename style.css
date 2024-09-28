@@ -1,13 +1,38 @@
+
+body {
+    background-color: rgb(246, 243, 243);
+}
+
 h1 {
     font-size: 46px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    color: rgba(167, 91, 37, 0.856);
+    padding: 40px;
 }
 
 a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: chocolate;
+    text-align: center;
+    display: block;
+    padding: 100px;
+    background-color: white;
+    border-radius: 10px;
 }
-body {
-    background-color: beige;
+
+#pasta {
+    margin: 10px;
 }
+
+#chili {
+    margin: 10px;
+}
+
+#overnight-oats {
+    margin: 10px;
+}
+
