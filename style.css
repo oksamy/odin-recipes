@@ -3,7 +3,7 @@ body {
     background-color: rgb(246, 243, 243);
 }
 
-h1 {
+.maintitle {
     font-size: 46px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
