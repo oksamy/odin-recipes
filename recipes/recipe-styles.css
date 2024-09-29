@@ -8,6 +8,27 @@
     padding: 20px;
 }
 
+.description {
+    background-color: rgb(246, 243, 243);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.ingredients {
+    background-color: rgb(246, 243, 243);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.steps {
+    background-color: rgb(246, 243, 243);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
 img {
     border-radius: 10px;
     margin: 20px;
